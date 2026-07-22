@@ -12,6 +12,9 @@ With India importing nearly 88% of its crude oil, even a single disruption—suc
 🤝 Supplier Recommendation Engine – Ranks suppliers based on price, availability, geopolitical stability, shipping time, and historical reliability.
 ⛽ Strategic Petroleum Reserve Management – Suggests optimal reserve utilization during emergencies.
 📊 Executive Dashboard – Presents AI-driven insights, KPIs, alerts, and recommendations through an intuitive interface.
+
+
+
 🏗️ System Architecture
 News APIs + Government Advisories + Shipping Data + Weather + Oil Prices
                                 │
@@ -34,6 +37,9 @@ News APIs + Government Advisories + Shipping Data + Weather + Oil Prices
                                 │
                                 ▼
                    Executive Dashboard & AI Assistant
+
+
+                   
 🛠️ Technology Stack
 Frontend
 React.js
@@ -57,6 +63,8 @@ OpenWeather API
 Brent Crude Price API
 AIS Shipping Data
 Government Advisories
+
+
 📌 Workflow
 Collect real-time news and logistics data.
 Extract critical geopolitical events using LLMs.
@@ -65,6 +73,8 @@ Analyze shipping routes and supplier availability.
 Forecast crude oil prices and demand.
 Generate procurement, routing, and reserve recommendations.
 Display insights through an executive dashboard.
+
+
 🎯 Use Case
 
 Scenario: The Strait of Hormuz is closed due to escalating geopolitical tensions.
@@ -80,6 +90,8 @@ Recommends Strategic Petroleum Reserve utilization.
 Predicts procurement cost increases.
 Estimates the economic impact.
 Generates executive recommendations within minutes.
+
+
 💡 Impact
 ⏱️ Faster crisis response and decision-making.
 💰 Reduced procurement and logistics costs.
@@ -93,6 +105,8 @@ Food Supply Chain Risk Prediction
 Pharmaceutical Supply Chain Monitoring
 National Disaster Logistics & Emergency Response
 Carbon Emission-Aware Route Optimization
+
+
 🤝 Contributing
 
 Contributions are welcome! Feel free to fork the repository, submit issues, or create pull requests to improve Project AEGIS.
